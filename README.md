@@ -12,7 +12,8 @@ Thanks to [build-cmake](https://atom.io/packages/build-cmake) from which this pa
 ---
 TODO :
 
--   [] enable options.
--   [] choosing ROS_VERSION to be sourced.
+-   [x] enable options.
+-   [x] choosing ROS_VERSION to be sourced.
+-   [x] passing args to `catkin build`.
+-   [x] option to clean first.
 -   [] allows for custom source path.
--   [] passing args to `catkin build`.
