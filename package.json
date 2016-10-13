@@ -9,10 +9,10 @@
   },
   "repository" : {
     "type" : "git",
-    "url"  : "https://github.com/artivis/atom-buils-catkin-tools.git"
+    "url"  : "https://github.com/artivis/build-catkin-tools.git"
   },
   "bugs" : {
-    "url": "https://github.com/artivis/atom-buils-catkin-tools/issues"
+    "url": "https://github.com/artivis/build-catkin-tools/issues"
   },
   "providedServices": {
     "builder": {
