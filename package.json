@@ -1,6 +1,6 @@
 {
   "name": "build-catkin-tools",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Build catkin_tools (ROS) workspace from within Atom.",
   "author": "Jeremie Deray <https://github.com/artivis>",
   "license": "MIT",
