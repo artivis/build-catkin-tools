@@ -1,17 +1,17 @@
 {
   "name": "build-catkin-tools",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Build catkin_tools (ROS) workspace from within Atom.",
-  "author" : "Jeremie Deray <https://github.com/artivis>",
+  "author": "Jeremie Deray <https://github.com/artivis>",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "repository" : {
-    "type" : "git",
-    "url"  : "https://github.com/artivis/build-catkin-tools.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artivis/build-catkin-tools.git"
   },
-  "bugs" : {
+  "bugs": {
     "url": "https://github.com/artivis/build-catkin-tools/issues"
   },
   "providedServices": {
@@ -22,7 +22,9 @@
       }
     }
   },
-  "devDependencies": { "atom-build": "0.65.0" },
+  "devDependencies": {
+    "atom-build": "0.65.0"
+  },
   "keywords": [
     "catkin_tools",
     "catkin",
@@ -30,5 +32,7 @@
     "build"
   ],
   "main": "lib/cmake.js",
-  "dependencies": { "atom-build": "0.65.0" }
+  "dependencies": {
+    "atom-build": "0.65.0"
+  }
 }
