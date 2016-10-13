@@ -22,17 +22,11 @@
       }
     }
   },
-  "devDependencies": {
-    "atom-build": "0.65.0"
-  },
   "keywords": [
     "catkin_tools",
     "catkin",
     "ROS",
     "build"
   ],
-  "main": "lib/cmake.js",
-  "dependencies": {
-    "atom-build": "0.65.0"
-  }
+  "main": "lib/cmake.js"
 }
