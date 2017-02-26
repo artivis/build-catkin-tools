@@ -28,5 +28,5 @@
     "ROS",
     "build"
   ],
-  "main": "lib/cmake.js"
+  "main": "lib/build-catkin-tools.js"
 }
